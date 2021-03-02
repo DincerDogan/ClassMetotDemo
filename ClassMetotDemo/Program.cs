@@ -9,7 +9,7 @@ namespace ClassMetotDemo
             Musteri musteri1 = new Musteri();
             musteri1.musteriID = 25;
             musteri1.musteriAdi = "Mehmet";
-            musteri1.musteriSoyAdi = "Osman";
+            musteri1.musteriSoyAdi = "Osman34";
             
 
             Musteri musteri2 = new Musteri();
